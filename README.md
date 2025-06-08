@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/96e1bc45-ebd4-4f0a-8f06-efd2ce74c27a)
 
-
+[![LinkedIn](https://raw.githubusercontent.com/PabloD96/imgs/main/icons8-linkedin-48.png)](https://www.linkedin.com/in/pablo-díaz-garcía-344048350)
 
 **PabloDev96/PabloDev96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
