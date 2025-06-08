@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://photos.fife.usercontent.google.com/pw/AP1GczMSyFMid9awJ0MoVuUJrIlaQdcfjgAMY-hk2p5EmYxZfD4nzeawtcU=w1369-h913-s-no-gm?authuser=0" alt="Texto alternativo" width="50%">
+![Image](https://github.com/user-attachments/assets/28e05dbb-70a3-46c7-b3bb-ca320e17e0ba)
 **PabloDev96/PabloDev96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
