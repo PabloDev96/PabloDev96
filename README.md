@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/96e1bc45-ebd4-4f0a-8f06-efd2ce74c27a)
+![Welcome](https://raw.githubusercontent.com/PabloD96/imgs/main/welcome_readme.png)
 
 [![LinkedIn](https://raw.githubusercontent.com/PabloD96/imgs/main/icons8-linkedin-48.png)](https://www.linkedin.com/in/pablo-díaz-garcía-344048350)
 
