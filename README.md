@@ -12,7 +12,7 @@ Soy un desarrollador web junior con muchas ganas de aprender y crecer profesiona
 
 ## 💻 Tecnologías que manejo
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind" width="50" height="50"/>
@@ -27,7 +27,7 @@ Soy un desarrollador web junior con muchas ganas de aprender y crecer profesiona
 
 ## 📚 Actualmente aprendiendo
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/>
 </p>
@@ -44,12 +44,15 @@ Soy un desarrollador web junior con muchas ganas de aprender y crecer profesiona
 
 ## 📫 Contacto
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/pablo-díaz-garcía-344048350" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Contacto-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/icons8-linkedin-48.png" alt="LinkedIn" width="48" />
   </a>
-  <a href="#" onclick="navigator.clipboard.writeText('pablo.diazgar@gmail.com'); alert('Correo copiado al portapapeles'); return false;">
-    <img src="https://img.shields.io/badge/Email-Copiar%20correo-informational?style=for-the-badge&logo=gmail" alt="Email" />
+  <a href="mailto:pablo.diazgarl@gmail.com">
+    <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/gmail2.png" alt="Gmail" width="48" />
+  </a>
+  <a href="tel:+34659103719">
+    <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/phone.png" alt="Teléfono" width="48" />
   </a>
 </p>
 
