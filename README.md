@@ -31,6 +31,7 @@ Soy un desarrollador web junior con muchas ganas de aprender y crecer profesiona
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/>
 </p>
+
 ---
 
 ## 🚀 Algunos de mis proyectos
