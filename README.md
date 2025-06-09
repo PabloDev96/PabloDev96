@@ -48,11 +48,13 @@ Soy un desarrollador web junior con muchas ganas de aprender y crecer profesiona
   <a href="https://www.linkedin.com/in/pablo-díaz-garcía-344048350" target="_blank">
     <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/icons8-linkedin-48.png" alt="LinkedIn" width="48" />
   </a>
+  <br>
   <a href="mailto:pablo.diazgarl@gmail.com">
-    <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/gmail2.png" alt="Gmail" width="48" />
+    <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/mail.png" alt="Gmail" width="48" />
   </a>
+  <br>
   <a href="tel:+34659103719">
-    <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/phone.png" alt="Teléfono" width="48" />
+    <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/telephone.png" alt="Teléfono" width="48" />
   </a>
 </p>
 
