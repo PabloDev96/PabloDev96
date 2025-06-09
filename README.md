@@ -1,4 +1,4 @@
-![Welcome](https://raw.githubusercontent.com/PabloD96/imgs/main/welcome_readme.png)
+![Welcome](https://raw.githubusercontent.com/PabloD96/imgs/main/Paisaje_Bienvenida_Definitivo.png)
 
 [![LinkedIn](https://raw.githubusercontent.com/PabloD96/imgs/main/icons8-linkedin-48.png)](https://www.linkedin.com/in/pablo-díaz-garcía-344048350)
 
