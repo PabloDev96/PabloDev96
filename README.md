@@ -44,26 +44,39 @@ Soy un desarrollador web junior con muchas ganas de aprender y crecer profesiona
 
 ## 📫 Contacto
 
-<p>
-  <a href="https://www.linkedin.com/in/pablo-díaz-garcía-344048350" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/icons8-linkedin-48.png" alt="LinkedIn" width="24" style="vertical-align: middle;">
-    <span style="vertical-align: middle; margin-left: 8px;">LinkedIn</span>
-  </a>
-</p>
+<table border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td>
+      <div style="min-height: 40px;">
+        <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/icons8-linkedin-48.png" alt="LinkedIn" width="35">
+      </div>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/pablo-díaz-garcía-344048350" target="_blank">LinkedIn</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="min-height: 40px;">
+        <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/mail.png" alt="Email" width="35">
+      </div>
+    </td>
+    <td>
+      <a href="mailto:pablo.diazgarl@gmail.com">pablo.diazgarl@gmail.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="min-height: 40px;">
+        <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/telephone.png" alt="Teléfono" width="35">
+      </div>
+    </td>
+    <td>
+      <a href="tel:+34659103719">+34 659 103 719</a>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <a href="mailto:pablo.diazgarl@gmail.com" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/mail.png" alt="Gmail" width="24" style="vertical-align: middle;">
-    <span style="vertical-align: middle; margin-left: 8px;">pablo.diazgarl@gmail.com</span>
-  </a>
-</p>
-
-<p>
-  <a href="tel:+34659103719" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/telephone.png" alt="Teléfono" width="24" style="vertical-align: middle;">
-    <span style="vertical-align: middle; margin-left: 8px;">+34 659 103 719</span>
-  </a>
-</p>
 ---
 
 > _“Estoy en constante aprendizaje y con muchas ganas de aportar desde el primer día.”_
