@@ -38,7 +38,7 @@ Soy un desarrollador web junior con muchas ganas de aprender y crecer profesiona
 | Proyecto | Tecnologías | Descripción |
 |----------|-------------|-------------|
 | [Gestor de tareas (Taskly)](#) | HTML, CSS, JS, PHP, MySQL | Plataforma para crear y gestionar proyectos y tareas, con asignación de usuarios y control de estados. |
-| [Acortador de URLs](#) | HTML, CSS, JS, PHP, MySQL | Acorta enlaces largos en URLs breves y reutilizables. |
+
 
 ---
 
