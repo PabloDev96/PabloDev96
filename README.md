@@ -3,7 +3,8 @@
 
 # 👋 ¡Hola! Soy Pablo Díaz
 
-Soy un desarrollador web junior con muchas ganas de aprender y crecer profesionalmente. Me apasiona construir soluciones útiles y disfruto especialmente el trabajo en equipo.
+Soy desarrollador web junior. Me encanta aprender cosas nuevas y seguir creciendo en lo profesional. Disfruto mucho crear soluciones que realmente sirvan y tengan impacto. Además, valoro mucho el trabajo en equipo: creo que compartir ideas, ayudarse mutuamente y construir algo en conjunto siempre lleva a mejores resultados.
+
 
 🎯 **Busco mi primera oportunidad como desarrollador full stack junior.**
 
