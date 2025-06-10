@@ -76,7 +76,3 @@ Soy un desarrollador web junior con muchas ganas de aprender y crecer profesiona
     </td>
   </tr>
 </table>
-
----
-
-> _“Estoy en constante aprendizaje y con muchas ganas de aportar desde el primer día.”_
