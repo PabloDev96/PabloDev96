@@ -38,7 +38,7 @@ Soy desarrollador web junior. Me encanta aprender cosas nuevas y seguir creciend
 
 | Proyecto | Tecnologías | Descripción |
 |----------|-------------|-------------|
-| [Gestor de tareas (Taskly)](#https://github.com/PabloDev96/GestorDeTareasTaskly) | HTML, CSS, JS, PHP, MySQL | Plataforma para crear y gestionar proyectos y tareas, con asignación de usuarios y control de estados. |
+| [Gestor de tareas (Taskly)](https://github.com/PabloDev96/GestorDeTareasTaskly) | HTML, CSS, JS, PHP, MySQL | Plataforma para crear y gestionar proyectos y tareas, con asignación de usuarios y control de estados. |
 
 
 ---
