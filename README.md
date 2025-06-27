@@ -1,4 +1,6 @@
-![Welcome](https://raw.githubusercontent.com/PabloD96/imgs/main/Imagen_Bienvenida.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PabloD96/imgs/main/Imagen_Bienvenida.png" alt="Welcome" width="850"/>
+</p>
 
 
 # 👋 ¡Hola! Soy Pablo Díaz
