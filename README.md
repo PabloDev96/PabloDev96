@@ -42,8 +42,8 @@ Soy desarrollador web junior. Me encanta aprender cosas nuevas y seguir creciend
 | Proyecto | Tecnologías | Descripción |
 |----------|-------------|-------------|
 | [Gestor de tareas (Taskly)](https://coral-mule-348004.hostingersite.com/) | HTML, CSS, JS, PHP, MySQL | Plataforma para crear y gestionar proyectos y tareas, con asignación de usuarios y control de estados. |
-
-
+| [Acortador de URLs](https://acortador-url-18kt.onrender.com/) | HTML, CSS, Blade, Laravel, PostgreSQL | Aplicación web en Laravel para acortar URLs. Genera enlaces cortos únicos que redirigen a la URL original. |
+| [App refugio animales (PawShelt)](https://github.com/PabloDev96/paw-shelt) | React, Spring, MySQL | App para la gestión interna de un refugio de animales. ACTUALMENTE EN DESARROLLO. |
 ---
 
 ## 📫 Contacto
