@@ -23,7 +23,7 @@ Soy desarrollador web junior. Me encanta aprender cosas nuevas y seguir creciend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
 </p>
 
 ---
@@ -32,7 +32,7 @@ Soy desarrollador web junior. Me encanta aprender cosas nuevas y seguir creciend
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@ Soy desarrollador web junior. Me encanta aprender cosas nuevas y seguir creciend
 |----------|-------------|-------------|
 | [Gestor de tareas (Taskly)](https://coral-mule-348004.hostingersite.com/) | HTML, CSS, JS, PHP, MySQL | Plataforma para crear y gestionar proyectos y tareas, con asignación de usuarios y control de estados. |
 | [Acortador de URLs](https://acortador-url-18kt.onrender.com/) | HTML, CSS, Blade, Laravel, PostgreSQL | Aplicación web en Laravel para acortar URLs. Genera enlaces cortos únicos que redirigen a la URL original. |
-| [App refugio animales (PawShelt)](https://paw-shelt-frontend.vercel.app/) | React, Spring, MySQL | App para la gestión interna de un refugio de animales. ACTUALMENTE EN DESARROLLO. |
+| [App refugio animales (PawShelt)](https://paw-shelt-frontend.vercel.app/) | React, Spring, MySQL | App para la gestión interna de un refugio de animales. |
 ---
 
 ## 📫 Contacto
